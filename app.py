@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="Arbi Finance AI", layout="wide")
+st.set_page_config(page_title="Finance AI", layout="wide")
 
 # ------------------------
 # Dados fictícios
